@@ -1,0 +1,588 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1895px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 2482px;
+  height: 1679px;
+  top: -78px;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 2482px;
+  height: 1679px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 802px;
+  top: 78px;
+  left: 0;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 360px;
+  height: 572px;
+  top: 1107px;
+  left: 540px;
+  background-color: #eeeeee;
+  border-radius: 19px;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 360px;
+  height: 572px;
+  top: 1107px;
+  left: 920px;
+  background-color: #eeeeee;
+  border-radius: 19px;
+}
+
+.desktop .recurso {
+  position: absolute;
+  width: 106px;
+  height: 124px;
+  top: 124px;
+  left: 160px;
+}
+
+.desktop .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 157px;
+  left: 1100px;
+}
+
+.desktop .frame-2 {
+  display: flex;
+  width: 170px;
+  align-items: flex-start;
+  gap: 27px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop .img {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.desktop .ri-whatsapp-fill {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  margin-right: -4px;
+}
+
+.desktop .frame-3 {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 75px;
+  position: absolute;
+  top: 166px;
+  left: 428px;
+}
+
+.desktop .text-wrapper {
+  position: relative;
+  width: 95px;
+  height: 41px;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #af2828;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+  position: relative;
+  width: 170px;
+  height: 40px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #af2828;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 351px;
+  left: 255px;
+  font-family: "SF Pro Display-Heavy", Helvetica;
+  font-weight: 400;
+  color: #b90e0e;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 443px;
+  left: 432px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #b90e0e8a;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 984px;
+  left: 255px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #b90e0e8a;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  top: 1195px;
+  left: 576px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #b90e0e8a;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 1195px;
+  left: 956px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #b90e0e8a;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 879px;
+  left: 255px;
+  font-family: "SF Pro Display-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 1157px;
+  left: 576px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  top: 1157px;
+  left: 956px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 1243px;
+  left: 576px;
+  font-family: "SF Pro Display-Heavy", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-12 {
+  top: 1243px;
+  left: 956px;
+  position: absolute;
+  font-family: "SF Pro Display-Heavy", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .line {
+  top: 1354px;
+  left: 576px;
+  position: absolute;
+  width: 289px;
+  height: 2px;
+}
+
+.desktop .line-2 {
+  top: 1354px;
+  left: 956px;
+  position: absolute;
+  width: 289px;
+  height: 2px;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  top: 1300px;
+  left: 576px;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-14 {
+  top: 1300px;
+  left: 956px;
+  position: absolute;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 289px;
+  height: 243px;
+  top: 1393px;
+  left: 575px;
+  background-color: #d9d9d9;
+  border-radius: 24px;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  width: 289px;
+  height: 243px;
+  top: 1393px;
+  left: 955px;
+  background-color: #d9d9d9;
+  border-radius: 24px;
+}
+
+.desktop .PHOTO {
+  position: absolute;
+  width: 288px;
+  height: 243px;
+  top: 1394px;
+  left: 575px;
+  object-fit: cover;
+}
+
+.desktop .PHOTO-2 {
+  position: absolute;
+  width: 288px;
+  height: 243px;
+  top: 1393px;
+  left: 956px;
+  object-fit: cover;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 377px;
+  top: 536px;
+  left: 304px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #d96d6d;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle-6 {
+  position: absolute;
+  width: 191px;
+  height: 39px;
+  top: 650px;
+  left: 397px;
+  background-color: #b90e0e;
+  border-radius: 24px;
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  top: 654px;
+  left: 414px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .PHOTO-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  left: 753px;
+}
+
+.desktop .PHOTO-3 {
+  position: relative;
+  width: 677px;
+  height: 1214px;
+  object-fit: cover;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 360px;
+  height: 572px;
+  top: 1107px;
+  left: 160px;
+  background-color: #eeeeee;
+  border-radius: 19px;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 184px;
+  height: 67px;
+  top: 50px;
+  left: 45px;
+}
+
+.desktop .brownie-cookies {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #b90e0e8a;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-17 {
+  top: 136px;
+  left: 45px;
+  position: absolute;
+  font-family: "SF Pro Display-Heavy", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .line-3 {
+  top: 248px;
+  left: 37px;
+  position: absolute;
+  width: 289px;
+  height: 2px;
+}
+
+.desktop .text-wrapper-18 {
+  top: 193px;
+  left: 37px;
+  position: absolute;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .img-wrapper {
+  position: absolute;
+  width: 289px;
+  height: 243px;
+  top: 286px;
+  left: 35px;
+  background-color: #d9d9d9;
+  border-radius: 24px;
+}
+
+.desktop .PHOTO-4 {
+  position: absolute;
+  width: 286px;
+  height: 243px;
+  top: 0;
+  left: 2px;
+  object-fit: cover;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 1440px;
+  height: 226px;
+  top: 1669px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(237, 176, 189) 0%, rgba(217, 217, 217, 0) 100%);
+}
+
+.desktop .frame-4 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 43px;
+  position: absolute;
+  top: 27px;
+  left: 160px;
+}
+
+.desktop .no-hay-mejor-regalo {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .frame-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop .gridicons-mail {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.desktop .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.desktop .frame-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 29px;
+  position: absolute;
+  top: 34px;
+  left: 878px;
+}
+
+.desktop .recurso-2 {
+  position: relative;
+  width: 146px;
+  height: 93px;
+}
+
+.desktop .frame-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
